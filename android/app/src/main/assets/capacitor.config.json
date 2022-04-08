@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Ferns",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

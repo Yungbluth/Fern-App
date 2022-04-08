@@ -1,0 +1,7 @@
+{
+  "name": "Ferns",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
