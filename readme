@@ -1,0 +1,6 @@
+An app created in Ionic to be a field guild of ferns local to Tucson, Arizona. You can add locations of where you have seen each fern.
+
+In order to run:
+type "ng serve" into a bash terminal located in this folder.
+
+Only meant to be a phone application, it is suggested to be viewed as such.
